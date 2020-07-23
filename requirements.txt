@@ -2,5 +2,4 @@ streamlit
 plotly
 pandas
 matplotlib
-base64
 lxml
